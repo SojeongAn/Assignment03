@@ -1,1 +1,1 @@
-# Assignment03
+## This script demonstrates the k-means algorithm
